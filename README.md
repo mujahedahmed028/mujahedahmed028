@@ -1,44 +1,150 @@
 # Hi, I’m Mohammed Mujahed 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&width=600&lines=Welcome+to+my+GitHub!;I+love+building+cool+stuff;Always+learning+new+things)](https://git.io/typing-svg)
+💡 Data Science Enthusiast | Python | SQL | Machine Learning | Data Analyst  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&width=600&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Turning+Data+into+Insights;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 What I’m Learning
-- Machine Learning 🤖  
-- Web Development 🌐  
-- Python & Data Science 🐍  
+# 🚀 About Me
+
+🎓 B.Tech Computer Science Student  
+📊 Passionate about Data Science, Analytics and Machine Learning  
+📈 Skilled in turning raw data into meaningful insights  
+💡 Interested in solving real world problems using data  
 
 ---
 
-## 📫 Connect With Me
-- **Email:** yourname@email.com  
-- **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+# 🧠 Data Science Skills
+
+### Programming
+Python, SQL
+
+### Data Analysis
+Pandas  
+NumPy  
+Exploratory Data Analysis (EDA)
+
+### Data Visualization
+Matplotlib  
+Seaborn  
+Power BI  
+Advanced Excel
+
+### Machine Learning
+Scikit-learn  
+Regression Models  
+Classification Models  
+Model Evaluation
+
+### Databases
+MySQL  
+PostgreSQL
+
+### Tools
+Git  
+GitHub  
+Jupyter Notebook  
+VS Code  
+Linux
 
 ---
 
-## 🧰 Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,nodejs,git,github,linux,mysql,bootstrap,tailwind&perline=7)](https://skillicons.dev)
+# 🧰 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,vscode&perline=7)](https://skillicons.dev)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 Data Science Workflow
+
+1️⃣ Data Collection  
+2️⃣ Data Cleaning  
+3️⃣ Exploratory Data Analysis  
+4️⃣ Feature Engineering  
+5️⃣ Machine Learning Modeling  
+6️⃣ Model Evaluation  
+7️⃣ Data Visualization  
+8️⃣ Dashboard Creation  
+9️⃣ Business Insights  
+🔟 Deployment / Reporting  
+
+---
+
+# 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Achievements
+
 [![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 📌 Featured Projects
-- 🧠 [Project 1](https://github.com/YOUR_USERNAME/REPO1) — Short description  
-- ⚙️ [Project 2](https://github.com/YOUR_USERNAME/REPO2) — Short description
+# 📌 Featured Data Science Projects
+
+### 🎓 Student Failure Prediction System
+Predicting student academic performance using Machine Learning.
+
+Technologies:
+Python  
+Pandas  
+Scikit-learn  
+EDA  
+
+Project Features:
+• Data preprocessing  
+• Feature engineering  
+• ML model training  
+• Prediction analysis
 
 ---
 
-### 💬 About This Page
-Made with ❤️ by Mohammed Mujahed
+### 📊 Sales Data Analysis Dashboard
+Analyzed sales data to extract insights and visualize trends.
+
+Technologies:
+Python  
+Pandas  
+Matplotlib  
+Power BI  
+
+Project Features:
+• Sales trend analysis  
+• Regional performance  
+• Interactive dashboards  
+
+---
+
+### 🧠 Customer Churn Prediction
+Predict customers likely to leave a service using classification models.
+
+Technologies:
+Python  
+Scikit-learn  
+Pandas  
+Seaborn  
+
+Project Features:
+• Data cleaning  
+• Feature selection  
+• Model training  
+• Evaluation metrics
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: mujahedahmed028@email.com  
+
+💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+
+🌐 Portfolio: https://yourportfolio.com
+
+---
+
+⭐ If you like my projects, consider giving them a star!
