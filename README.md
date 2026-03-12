@@ -141,9 +141,8 @@ Project Features:
 
 📧 Email: mujahedahmed028@email.com  
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-
-🌐 Portfolio: https://yourportfolio.com
+💼 LinkedIn: (https://www.linkedin.com/in/md-mujahed-ahmed/)
+🌐 Portfolio: (https://mujahedahmed028.github.io/My_Portfolio_Website/)
 
 ---
 
